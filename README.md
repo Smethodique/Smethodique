@@ -1,1 +1,1 @@
-https://badge.mediaplus.ma/darkblue/stakhtou
+![](https://badge.mediaplus.ma/darkblue/stakhtou)
