@@ -37,14 +37,11 @@ Mastering backend architecture with emphasis on HTTP protocols and server techno
 
 ## 🔗 Featured Projects
 
-<div align="center">
-  <a href="https://huggingface.co/spaces/samitak/sami" target="_blank">
-    <img src="https://img.shields.io/badge/🤖_Ask_AI_about_me-4A154B?style=for-the-badge" alt="Ask AI" />
-  </a>
-</div>
 
 ## 🤖 Ask AI about me
-[![Screenshot from 2025-05-18 06-04-23](Screenshot%20from%202025-05-18%2006-04-23.png)](Screenshot%20from%202025-05-18%2006-04-23.png)
+<a href="https://huggingface.co/spaces/samitak/sami" target="_blank">
+  <img src="[![Screenshot from 2025-05-18 06-04-23](Screenshot%20from%202025-05-18%2006-04-23.png)](Screenshot%20from%202025-05-18%2006-04-23.png)" alt="Description of the image" style="cursor:pointer;">
+</a>
 <table align="center">
     <tr>
         <td align="center"><b>42-1337 Projects</b></td>
