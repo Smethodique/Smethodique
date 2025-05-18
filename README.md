@@ -15,7 +15,15 @@ Rust, advanced algorithms, AI, and more
 ---
 
 ### 💬 Ask me about  
-C, C++, Python, Shell Scripting, Nginx, Docker
+
+<p>
+  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" style="margin-right:10px;" />
+  <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right:10px;" />
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin-right:10px;" />
+  <img alt="Shell" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" style="margin-right:10px;" />
+  <img alt="Nginx" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40" style="margin-right:10px;" />
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" style="margin-right:10px;" />
+</p>
 
 ---
 
@@ -43,5 +51,3 @@ C, C++, Python, Shell Scripting, Nginx, Docker
 | 42-1337 Projects   | My coding challenges   | [View on GitHub](https://github.com/Smethodique/42-1337-projects) |
 
 ---
-
-
