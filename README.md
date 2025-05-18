@@ -2,7 +2,6 @@
 
 # Sami Takhtoukh
 
-> Backend Developer | System Programming Enthusiast
 
 ## 🔭 Current Focus
 Working on [Webserve](https://github.com/anasamellahe/webserv/tree/sami-branche) - A custom HTTP server implementation
