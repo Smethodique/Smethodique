@@ -1,6 +1,6 @@
 ![](https://badge.mediaplus.ma/darkblue/stakhtou)
 
-# Hi there 👋, I'm [Sami takhtoukh]
+# Hi there 👋, I'm Sami Takhtoukh
 
 ### 🔭 I'm currently working on
 - 🚀 [Project Name](https://github.com/anasamellahe/webserv/tree/sami-branche) — Webserve 
@@ -9,10 +9,10 @@
 - Your current learning goals (e.g., Rust, advanced algorithms, AI, etc.)
 
 ### 💬 Ask me about
--C CPP python ShellScripting nginx appache docker
+- C CPP python ShellScripting nginx apache docker
 
 ### 📫 How to reach me
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/takhtoukh-sami-193254325/))  
+- [LinkedIn](https://www.linkedin.com/in/takhtoukh-sami-193254325/)  
 - Email: takhtoukhsami@gmail.com
 
 ---
@@ -30,8 +30,7 @@
 
 ### 🔗 Featured Projects
 
-|42-1337 projects| [Repo]([https://github.com/yourusername/project1](https://github.com/Smethodique/42-1337-projects)) |
+| 42-1337 projects | [Repo](https://github.com/Smethodique/42-1337-projects) |
 
 ---
-
 
