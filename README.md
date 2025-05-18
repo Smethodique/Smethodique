@@ -44,7 +44,7 @@ Mastering backend architecture with emphasis on HTTP protocols and server techno
 </div>
 
 ## 🤖 Ask AI about me
-
+[![Screenshot from 2025-05-18 06-04-23](Screenshot%20from%202025-05-18%2006-04-23.png)](Screenshot%20from%202025-05-18%2006-04-23.png)
 <table align="center">
     <tr>
         <td align="center"><b>42-1337 Projects</b></td>
