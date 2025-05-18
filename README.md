@@ -1,26 +1,19 @@
 ![](https://badge.mediaplus.ma/darkblue/stakhtou)
 
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Sami takhtoukh]
 
 ### 🔭 I'm currently working on
-- 🚀 [Project Name](https://github.com/yourusername/project) — Brief description of what it does
+- 🚀 [Project Name](https://github.com/anasamellahe/webserv/tree/sami-branche) — Webserve 
 
 ### 🌱 I’m currently learning
 - Your current learning goals (e.g., Rust, advanced algorithms, AI, etc.)
 
-### 👯 I’m looking to collaborate on
-- Open source projects in [your interest area]
-
 ### 💬 Ask me about
-- Topics you're comfortable discussing (e.g., Python, C, Web Development, AI)
+-C CPP python ShellScripting nginx appache docker
 
 ### 📫 How to reach me
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourhandle)  
-- Email: your.email@example.com
-
-### ⚡ Fun fact
-- I love solving puzzles and coffee ☕
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/takhtoukh-sami-193254325/))  
+- Email: takhtoukhsami@gmail.com
 
 ---
 
@@ -42,10 +35,7 @@
 
 ### 🔗 Featured Projects
 
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| Project 1 | Short description | [Repo](https://github.com/yourusername/project1) |
-| Project 2 | Short description | [Repo](https://github.com/yourusername/project2) |
+|42-1337 projects| [Repo]([https://github.com/yourusername/project1](https://github.com/Smethodique/42-1337-projects)) |
 
 ---
 
