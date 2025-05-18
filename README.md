@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Sami Takhtoukh
 
 ### 🔭 I'm currently working on
-- 🚀 [Project Name](https://github.com/anasamellahe/webserv/tree/sami-branche) — Webserve 
+- 🚀 [latest project](https://github.com/anasamellahe/webserv/tree/sami-branche) — Webserve 
 
 ### 🌱 I’m currently learning
 - Your current learning goals (e.g., Rust, advanced algorithms, AI, etc.)
@@ -30,7 +30,7 @@
 
 ### 🔗 Featured Projects
 
-| 42-1337 projects | [Repo](https://github.com/Smethodique/42-1337-projects) |
+| 42-1337 projects | [1337 project](https://github.com/Smethodique/42-1337-projects) |
 
 ---
 
