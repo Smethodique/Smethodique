@@ -37,14 +37,6 @@ Mastering backend architecture with emphasis on HTTP protocols and server techno
 
 
 
-## 🤖 Ask AI about me
-<div align="center">
-  <a href="https://huggingface.co/spaces/samitak/sami" target="_blank">
-    <img src="Screenshot from 2025-05-18 06-04-23.png" alt="AI Assistant Preview" width="1000">
-  </a>
-  <p><i>👆 Click on the image above to try the AI assistant</i></p>
-</div>#
-
 # 🔗 Featured Projects
 
 <table align="center">
@@ -65,3 +57,4 @@ Mastering backend architecture with emphasis on HTTP protocols and server techno
         <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </div>
+
