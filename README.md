@@ -9,18 +9,7 @@
 
 </div>
 
----
 
-## 🎯 **Current Mission**
-> 🔨 Architecting [**Webserve**](https://github.com/anasamellahe/webserv/tree/sami-branche) - A lightning-fast HTTP server built from scratch
-
-## 🧠 **Evolution Path**
-```mermaid
-graph LR
-    A[HTTP Protocols] --> B[Server Architecture]
-    B --> C[Performance Optimization]
-    C --> D[Scalable Systems]
-```
 
 ## ⚡ **Tech Arsenal**
 
@@ -70,3 +59,4 @@ graph LR
 ![Profile Views](https://komarev.com/ghpvc/?username=stakhtou&color=blueviolet&style=for-the-badge)
 
 </div>
+
