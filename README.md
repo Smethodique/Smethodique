@@ -5,8 +5,8 @@
 # 🚀 Sami Takhtoukh
 ### *software engineer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+High-Performance+Servers;Crafting+Scalable+Backend+Solutions;Mastering+System+Architecture" alt="Typing SVG" />
-
+<img 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=From+Logic+to+Launch;Real-time+Web+%26+Multiplayer+Systems;C%2B%2B,+TypeScript+%26+Containerized+DevOps" alt="Typing SVG" />
 </div>
 
 
