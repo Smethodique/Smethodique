@@ -3,7 +3,7 @@
 ![](https://badge.mediaplus.ma/darkblue/stakhtou)
 
 # 🚀 Sami Takhtoukh
-### *Backend Architect & System Engineer*
+### *software engineer*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+High-Performance+Servers;Crafting+Scalable+Backend+Solutions;Mastering+System+Architecture" alt="Typing SVG" />
 
